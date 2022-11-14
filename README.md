@@ -67,3 +67,5 @@ Remember that **there is no countdown**, so take your time and implement a solut
   <br><br>
   Made with ❤️ by <a href="https://rviewer.io">Rviewer</a>
 </p>
+
+Completed
